@@ -1,1 +1,1 @@
-# KaggleCompetition_CEBD-1260
+# KaggleCompetition_CEBD1260_Regression
